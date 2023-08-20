@@ -11,8 +11,8 @@ The model was trained using `AutoModelForSequenceClassification.from_pretrained`
 [imdb-spoiler](https://huggingface.co/datasets/bhavyagiri/imdb-spoiler) is a subset of a [large-dataset](https://www.kaggle.com/datasets/rmisra/imdb-spoiler-dataset) for classifying whether a movie review is a spoiler or not.
 
 ### Evaluation using the dataset validation split gives:
-- F1 0.585
-- Accuracy 0.474
+- F1 0.773021
+- Accuracy 0.783275	
 
 
 Project Organization

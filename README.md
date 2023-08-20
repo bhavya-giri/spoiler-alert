@@ -51,3 +51,7 @@ Start the notebook
   jupyter notebook
 ```
 or open with Juoyter Lab
+
+```bash
+ jupyter lab
+```
